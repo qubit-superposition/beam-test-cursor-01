@@ -1,0 +1,10 @@
+Este es un archivo de ejemplo para probar el pipeline de Apache Beam.
+El pipeline procesará este texto y contará la frecuencia de cada palabra.
+Apache Beam es una herramienta muy útil para el procesamiento de datos.
+Con Apache Beam podemos crear pipelines de datos escalables.
+Este pipeline es un ejemplo simple pero efectivo.
+Podemos procesar textos más grandes sin problemas.
+Apache Beam también soporta procesamiento en tiempo real.
+Este es solo un ejemplo básico.
+Pero demuestra el poder de Apache Beam.
+Espero que este ejemplo sea útil.
